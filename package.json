@@ -1,0 +1,22 @@
+{
+  "name": "gmp-task-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmontoya/node-gmp-task-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmontoya/node-gmp-task-one/issues"
+  },
+  "homepage": "https://github.com/xmontoya/node-gmp-task-one#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
